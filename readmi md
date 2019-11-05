@@ -34,12 +34,7 @@ print("Selesai")
 'i' adalah hasil dari jumlah perulangan yang telah dilakukan. Dan 'a' akan menampilkan nilai secara acak karena fungsi random yang telah diinput.
 
 Screenshot Input & Output
-
-![201](https://user-images.githubusercontent.com/56529741/68187188-d65bf100-ff5a-11e9-9238-7e18e95a9260.png)
-
-
-
-
+![201](https://user-images.githubusercontent.com/56529741/68189609-87b15580-ff60-11e9-995b-943c403e7d1b.png)
 
 Latihan1p3
 
@@ -86,6 +81,8 @@ Disini kita akan menampilkan output bilangan terbesar dari angka - angka yang te
 
 Screenshot Input & Output
 Latihan2p3
+
+
 
 Program1
 Pada program ini kita akan mencari keuntungan pada usaha yang telah berjalan selama 8 bulan dengan kondisi yang telah ditentukan.
